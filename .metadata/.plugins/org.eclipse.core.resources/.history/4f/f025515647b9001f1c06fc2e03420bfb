@@ -1,0 +1,8 @@
+spring.application.name=crud
+
+# Oracle Database configuration
+spring.datasource.driverClassName=oracle.jdbc.OracleDriver
+spring.datasource.url=jdbc:oracle:thin:@172.16.16.49:1521:fin
+spring.datasource.username=TMH_PROD
+spring.datasource.password=TMH_PROD1
+

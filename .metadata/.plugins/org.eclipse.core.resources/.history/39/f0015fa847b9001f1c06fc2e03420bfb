@@ -1,0 +1,5 @@
+package com.spring.crud.model;
+
+public class Product {
+
+}
